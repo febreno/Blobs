@@ -1,2 +1,2 @@
 # Blobs
-Um jogo em desenvolvimentopara cuidar de um animal filhote do planeta alpha
+Um jogo em desenvolvimento para cuidar de um animal filhote do planeta alpha.
